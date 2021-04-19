@@ -11,7 +11,7 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 
 ## Projeto
 
-O dev.finances é uma aplicação de controle financeiro, sendo possível cadastrar e excluir transações e acompanhar o saldo de entrada (crédito), saída (débito) e o saldo final
+O dev.finances é uma aplicação de controle financeiro, sendo possível incluir e excluir transações de débito (saída) e crédito (entrada), a aplicação também apresenta o saldo final de cada operação.
 
 Projeto desenvolvido durante a [Maratona Discover](https://maratonadiscover.rocketseat.com.br/), realizada pela [@Rocketseat](https://github.com/Rocketseat).
 
@@ -21,7 +21,7 @@ Projeto desenvolvido durante a [Maratona Discover](https://maratonadiscover.rock
 - [Clone](https://help.github.com/articles/cloning-a-repository/) o projeto na sua máquina executando o seguinte comando no seu terminal:
 
 ```sh
-git clone https://github.com/vsandro/APP-BCTH-ERP.git
+git clone https://github.com/vsandro/dev-finances.git
 ```
 
 **Execução**
@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ---
 
-<p align="center">Desenvolvido com :heart: por [Sandro Vieira](https://www.linkedin.com/in/vsandro)</p>
+Desenvolvido com :heart: por [Sandro Vieira](https://www.linkedin.com/in/vsandro) 
